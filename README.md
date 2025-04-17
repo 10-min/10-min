@@ -1,4 +1,6 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=A6DAF4&height=300&section=header&text=Welcome%&fontColor=FFFFFF&fontSize=90&)
   
 ## 👋 Hello, I'm Taemin! 
 
@@ -6,6 +8,11 @@ I'm a passionate Robotics & Software Engineer 🤖 from Korea 🇰🇷
 I enjoy building autonomous robots, exploring computer vision, and designing AI-driven systems.
 
 🌱 I’m currently learning C++, ROS, Autonomus driving and controlled robot.
+
+🌐 [My Blog](https://10-min-e.tistory.com/)
+
+📧 taemin5315@gmail.com
+
 
 ## 📚 Tech Stack
 
@@ -41,6 +48,7 @@ I enjoy building autonomous robots, exploring computer vision, and designing AI-
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
+### Github Stats
 ![10-min's GitHub stats](https://github-readme-stats.vercel.app/api?username=10-min&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10-min&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
